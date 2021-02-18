@@ -1,3 +1,5 @@
+**Live link** - [link](https://abhilashkakumanu1.github.io/emptor-api-task/)
+
 ### Problems faced
 
 1. **CORS Error**: First tried to fix the error by sending the request through the "cors-anywhere" proxy. But, after a few trails I realised that the creator has limited the number of requests. So, I have created and deployed (on heroku) my own proxy server.
